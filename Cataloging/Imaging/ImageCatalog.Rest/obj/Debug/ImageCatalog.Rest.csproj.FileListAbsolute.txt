@@ -12,3 +12,16 @@ C:\Development\git\Whiskey.Tango.Foxtrot\Cataloging\Imaging\ImageCatalog.Rest\bi
 C:\Development\git\Whiskey.Tango.Foxtrot\Cataloging\Imaging\ImageCatalog.Rest\obj\Debug\ImageCatalog.Rest.csprojResolveAssemblyReference.cache
 C:\Development\git\Whiskey.Tango.Foxtrot\Cataloging\Imaging\ImageCatalog.Rest\obj\Debug\ImageCatalog.Rest.dll
 C:\Development\git\Whiskey.Tango.Foxtrot\Cataloging\Imaging\ImageCatalog.Rest\obj\Debug\ImageCatalog.Rest.pdb
+C:\Development\git\Whiskey.Tango.Foxtrot\Cataloging\Imaging\ImageCatalog.Rest\bin\Microsoft.Practices.Unity.Configuration.dll
+C:\Development\git\Whiskey.Tango.Foxtrot\Cataloging\Imaging\ImageCatalog.Rest\bin\Microsoft.Practices.Unity.dll
+C:\Development\git\Whiskey.Tango.Foxtrot\Cataloging\Imaging\ImageCatalog.Rest\bin\System.Reactive.Core.dll
+C:\Development\git\Whiskey.Tango.Foxtrot\Cataloging\Imaging\ImageCatalog.Rest\bin\System.Reactive.Interfaces.dll
+C:\Development\git\Whiskey.Tango.Foxtrot\Cataloging\Imaging\ImageCatalog.Rest\bin\System.Reactive.Linq.dll
+C:\Development\git\Whiskey.Tango.Foxtrot\Cataloging\Imaging\ImageCatalog.Rest\bin\System.Reactive.PlatformServices.dll
+C:\Development\git\Whiskey.Tango.Foxtrot\Cataloging\Imaging\ImageCatalog.Rest\bin\Unity.WebApi.dll
+C:\Development\git\Whiskey.Tango.Foxtrot\Cataloging\Imaging\ImageCatalog.Rest\bin\Microsoft.Practices.Unity.xml
+C:\Development\git\Whiskey.Tango.Foxtrot\Cataloging\Imaging\ImageCatalog.Rest\bin\Microsoft.Practices.Unity.Configuration.xml
+C:\Development\git\Whiskey.Tango.Foxtrot\Cataloging\Imaging\ImageCatalog.Rest\bin\System.Reactive.Core.xml
+C:\Development\git\Whiskey.Tango.Foxtrot\Cataloging\Imaging\ImageCatalog.Rest\bin\System.Reactive.Interfaces.xml
+C:\Development\git\Whiskey.Tango.Foxtrot\Cataloging\Imaging\ImageCatalog.Rest\bin\System.Reactive.Linq.xml
+C:\Development\git\Whiskey.Tango.Foxtrot\Cataloging\Imaging\ImageCatalog.Rest\bin\System.Reactive.PlatformServices.xml

@@ -1,5 +1,7 @@
-﻿using System;
+﻿using ImageCatalog.Rest.Services;
+using System;
 using System.Collections.Generic;
+using System.Diagnostics;
 using System.IO;
 using System.Linq;
 using System.Net;
@@ -14,6 +16,11 @@ namespace ImageCatalog.Rest.Controllers
     [RoutePrefix("api/v1/images")]
     public class ImageController : ApiController
     {
+        private IObserver<PendingImage> Observer { get; set; }
+        public ImageController(IObserver<PendingImage> observer)
+        {
+            Observer = observer;
+        }
         [Route()]
         [HttpGet]
         [ResponseType(typeof(IEnumerable<string>))]
@@ -37,17 +44,20 @@ namespace ImageCatalog.Rest.Controllers
                 throw new HttpResponseException(HttpStatusCode.UnsupportedMediaType);
             }
             string root = HttpContext.Current.Server.MapPath("~/pending");
+            if(!Directory.Exists(root))
+            {
+                Directory.CreateDirectory(root);
+            }
             var provider = new MultipartFormDataStreamProvider(root);
 
             try
             {
                 await Request.Content.ReadAsMultipartAsync(provider);
 
-                /*foreach (MultipartFileData file in provider.FileData)
+                foreach (MultipartFileData file in provider.FileData)
                 {
-                    Trace.WriteLine(file.Headers.ContentDisposition.FileName);
-                    Trace.WriteLine("Server file path: " + file.LocalFileName);
-                }*/
+                    Observer.OnNext(new PendingImage { SavedFile = file.LocalFileName, FileName = file.Headers.ContentDisposition.FileName });
+                }
 
                 return Request.CreateResponse(HttpStatusCode.OK);
             }

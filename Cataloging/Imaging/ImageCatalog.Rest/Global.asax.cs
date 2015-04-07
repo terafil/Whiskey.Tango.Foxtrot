@@ -12,6 +12,7 @@ namespace ImageCatalog.Rest
         protected void Application_Start()
         {
             GlobalConfiguration.Configure(WebApiConfig.Register);
+            GlobalConfiguration.Configure(UnityConfig.RegisterComponents);
         }
     }
 }
