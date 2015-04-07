@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.31101.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Imaging.Prototype", "Imaging.Prototype\Imaging.Prototype.csproj", "{1504EB56-C7BB-4443-9D26-B46DEE6B99CD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ImageCatalog.Rest", "ImageCatalog.Rest\ImageCatalog.Rest.csproj", "{D3CFD983-6B42-4F63-A23D-FA9131508C1C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ImageCatalog", "ImageCatalog\ImageCatalog.csproj", "{750534E3-F45F-4A82-8F6B-5196CF54049A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1504EB56-C7BB-4443-9D26-B46DEE6B99CD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1504EB56-C7BB-4443-9D26-B46DEE6B99CD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1504EB56-C7BB-4443-9D26-B46DEE6B99CD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1504EB56-C7BB-4443-9D26-B46DEE6B99CD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D3CFD983-6B42-4F63-A23D-FA9131508C1C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D3CFD983-6B42-4F63-A23D-FA9131508C1C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D3CFD983-6B42-4F63-A23D-FA9131508C1C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D3CFD983-6B42-4F63-A23D-FA9131508C1C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{750534E3-F45F-4A82-8F6B-5196CF54049A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{750534E3-F45F-4A82-8F6B-5196CF54049A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{750534E3-F45F-4A82-8F6B-5196CF54049A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{750534E3-F45F-4A82-8F6B-5196CF54049A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

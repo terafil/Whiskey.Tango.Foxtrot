@@ -1,0 +1,9 @@
+C:\Development\Sandbox\Imaging\Imaging.Prototype\bin\Debug\Imaging.Prototype.exe.config
+C:\Development\Sandbox\Imaging\Imaging.Prototype\bin\Debug\Imaging.Prototype.exe
+C:\Development\Sandbox\Imaging\Imaging.Prototype\bin\Debug\Imaging.Prototype.pdb
+C:\Development\Sandbox\Imaging\Imaging.Prototype\obj\Debug\Imaging.Prototype.csprojResolveAssemblyReference.cache
+C:\Development\Sandbox\Imaging\Imaging.Prototype\obj\Debug\Imaging.Prototype.exe
+C:\Development\Sandbox\Imaging\Imaging.Prototype\obj\Debug\Imaging.Prototype.pdb
+C:\Development\git\Whiskey.Tango.Foxtrot\Cataloging\Imaging\Imaging.Prototype\bin\Debug\Imaging.Prototype.exe.config
+C:\Development\git\Whiskey.Tango.Foxtrot\Cataloging\Imaging\Imaging.Prototype\obj\Debug\Imaging.Prototype.exe
+C:\Development\git\Whiskey.Tango.Foxtrot\Cataloging\Imaging\Imaging.Prototype\obj\Debug\Imaging.Prototype.pdb

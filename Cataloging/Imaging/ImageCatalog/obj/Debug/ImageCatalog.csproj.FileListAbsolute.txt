@@ -1,0 +1,6 @@
+C:\Development\git\Whiskey.Tango.Foxtrot\Cataloging\Imaging\ImageCatalog\bin\ImageCatalog.dll.config
+C:\Development\git\Whiskey.Tango.Foxtrot\Cataloging\Imaging\ImageCatalog\bin\ImageCatalog.dll
+C:\Development\git\Whiskey.Tango.Foxtrot\Cataloging\Imaging\ImageCatalog\bin\ImageCatalog.pdb
+C:\Development\git\Whiskey.Tango.Foxtrot\Cataloging\Imaging\ImageCatalog\obj\Debug\ImageCatalog.csprojResolveAssemblyReference.cache
+C:\Development\git\Whiskey.Tango.Foxtrot\Cataloging\Imaging\ImageCatalog\obj\Debug\ImageCatalog.dll
+C:\Development\git\Whiskey.Tango.Foxtrot\Cataloging\Imaging\ImageCatalog\obj\Debug\ImageCatalog.pdb

@@ -1,0 +1,14 @@
+C:\Development\git\Whiskey.Tango.Foxtrot\Cataloging\Imaging\ImageCatalog.Rest\bin\ImageCatalog.Rest.dll.config
+C:\Development\git\Whiskey.Tango.Foxtrot\Cataloging\Imaging\ImageCatalog.Rest\bin\ImageCatalog.Rest.dll
+C:\Development\git\Whiskey.Tango.Foxtrot\Cataloging\Imaging\ImageCatalog.Rest\bin\ImageCatalog.Rest.pdb
+C:\Development\git\Whiskey.Tango.Foxtrot\Cataloging\Imaging\ImageCatalog.Rest\bin\Newtonsoft.Json.dll
+C:\Development\git\Whiskey.Tango.Foxtrot\Cataloging\Imaging\ImageCatalog.Rest\bin\System.Net.Http.Formatting.dll
+C:\Development\git\Whiskey.Tango.Foxtrot\Cataloging\Imaging\ImageCatalog.Rest\bin\System.Web.Http.dll
+C:\Development\git\Whiskey.Tango.Foxtrot\Cataloging\Imaging\ImageCatalog.Rest\bin\System.Web.Http.WebHost.dll
+C:\Development\git\Whiskey.Tango.Foxtrot\Cataloging\Imaging\ImageCatalog.Rest\bin\Newtonsoft.Json.xml
+C:\Development\git\Whiskey.Tango.Foxtrot\Cataloging\Imaging\ImageCatalog.Rest\bin\System.Net.Http.Formatting.xml
+C:\Development\git\Whiskey.Tango.Foxtrot\Cataloging\Imaging\ImageCatalog.Rest\bin\System.Web.Http.xml
+C:\Development\git\Whiskey.Tango.Foxtrot\Cataloging\Imaging\ImageCatalog.Rest\bin\System.Web.Http.WebHost.xml
+C:\Development\git\Whiskey.Tango.Foxtrot\Cataloging\Imaging\ImageCatalog.Rest\obj\Debug\ImageCatalog.Rest.csprojResolveAssemblyReference.cache
+C:\Development\git\Whiskey.Tango.Foxtrot\Cataloging\Imaging\ImageCatalog.Rest\obj\Debug\ImageCatalog.Rest.dll
+C:\Development\git\Whiskey.Tango.Foxtrot\Cataloging\Imaging\ImageCatalog.Rest\obj\Debug\ImageCatalog.Rest.pdb
